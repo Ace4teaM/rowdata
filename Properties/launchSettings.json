@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "rawdata": {
+      "commandName": "Project",
+      "commandLineArgs": "out.bin -i out.png"
+    }
+  }
+}
